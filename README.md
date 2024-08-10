@@ -16,18 +16,7 @@ Each element is well presented in very complex documentation.
 
 You can read more about the [documentation here](https://www.material-tailwind.com/docs/react/installation).
 
-**HELPFUL LINKS**
 
-- View [Github Repository](https://github.com/creativetimofficial/nextjs-tailwind-course-landing-page)
-- Check [FAQ Page](https://www.creative-tim.com/faq)
-
-## [Demo](https://creative-tim.com/product/nextjs-tailwind-course-landing-page)
-
-## Quick start
-
-Quick start options:
-
-- Download from [Creative Tim](https://www.creative-tim.com/product/nextjs-tailwind-course-landing-page?ref=readme-ntpp).
 
 ## Terminal Commands
 
@@ -46,8 +35,7 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Resources
 
-- [Live Preview](https://demos.creative-tim.com/nextjs-tailwind-course-landing-page?ref=readme-ntpp)
-- [Download Page](https://www.creative-tim.com/product/nextjs-tailwind-course-landing-page?ref=readme-ntpp)
+- [Live Preview](https://areyengsghela.vercel.app)
 - Documentation is [here](https://www.material-tailwind.com/docs/react/installation?ref=readme-ntpp)
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-ntpp)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-ntpp)
