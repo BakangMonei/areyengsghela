@@ -77,7 +77,7 @@ export function Navbar() {
         >
           <div className="flex items-center justify-between">
             <Typography color="blue-gray" className="text-lg font-bold">
-              Material Tailwind
+              AreyengSghela
             </Typography>
             <ul className="ml-10 hidden items-center gap-8 lg:flex">
               {NAV_MENU.map(({ name, icon: Icon, href }) => (
@@ -89,12 +89,12 @@ export function Navbar() {
             </ul>
             <div className="hidden items-center gap-4 lg:flex">
               <Button variant="text">Log in</Button>
-              <a
+              {/* <a
                 href="https://www.material-tailwind.com/blocks"
                 target="_blank"
               >
                 <Button color="gray">Blocks</Button>
-              </a>
+              </a> */}
             </div>
             <IconButton
               variant="text"

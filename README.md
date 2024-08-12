@@ -16,7 +16,7 @@ You can read more about the [documentation here](https://www.material-tailwind.c
 
 ## Documentation
 
-The documentation for the Material Dashboard is hosted at our [website](https://www.material-tailwind.com/docs/react/installation?ref=readme-ntpp).
+The documentation for the Material Dashboard is hosted at [website](https://www.material-tailwind.com/docs/react/installation?ref=readme-ntpp).
 
 ## Browser Support
 

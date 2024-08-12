@@ -77,13 +77,11 @@ export function Footer() {
           color="blue-gray"
           className="md:text-center mt-16 font-normal !text-gray-700"
         >
-          &copy; {CURRENT_YEAR} Made with{" "}
-          <a href="https://www.material-tailwind.com" target="_blank">
-            Material Tailwind
-          </a>{" "}
+          &copy; {CURRENT_YEAR} Made{" "}
+          
           by{" "}
-          <a href="https://www.creative-tim.com" target="_blank">
-            Creative Tim
+          <a href="https://www.swiftiq.co.bw" target="_blank">
+            SwiftIQ Technologies
           </a>
           .
         </Typography>
